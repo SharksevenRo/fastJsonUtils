@@ -1,5 +1,3 @@
-package com.dview.p242.common.json;
-
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
