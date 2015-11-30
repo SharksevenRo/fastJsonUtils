@@ -1,5 +1,3 @@
-package com.dview.p242.utils.json;
-
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
@@ -11,8 +9,6 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
-import com.dview.p242.common.json.JsonFieldProperty;
-import com.dview.p242.common.json.JsonFieldProperty.JsonPropertyType;
 
 public class JsonUtils_wg {
 	/**
